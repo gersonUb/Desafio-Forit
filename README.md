@@ -1,6 +1,6 @@
 # Buscador de Clientes
 
-Este proyecto es una aplicación web para buscar y registrar clientes utilizando React, Vite y varias dependencias modernas como Tailwind CSS. Permite agregar, buscar y eliminar usuarios con una interfaz de usuario intuitiva.
+Este proyecto es un intento de una aplicación we para buscar y registrar clientes utilizando React, Vite y varias dependencias modernas como Tailwind CSS. Permite agregar, buscar y eliminar usuarios con una interfaz de usuario intuitiva.
 
 ## Tecnologías utilizadas
 
